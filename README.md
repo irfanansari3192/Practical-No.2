@@ -6,12 +6,13 @@ Open source software provide facility to improve business and economics.
 It provides source code to study and inspect. example: Libre Office, GNU.  
 
 Philosophy of Open Source are are follows  
-(I) Cathedral  
+
+**(I) Cathedral**   
 -> Manage  
 -> Architect  
 -> Developers  
 -> Implementation  
-(II) Bazaar  
+**(II) Bazaar**  
 -> Its made by Gregorio Robles  
 -> Users should be considered codeveloper  
 -> Free as early as possible  
